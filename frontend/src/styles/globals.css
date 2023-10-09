@@ -1,0 +1,14 @@
+html {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+}
+
+body #__next {
+  position: absolute;
+  inset: 0;
+}
